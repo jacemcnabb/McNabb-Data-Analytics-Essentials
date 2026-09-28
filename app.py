@@ -24,7 +24,6 @@ from pathlib import Path
 
 import numpy as np  # noqa: F401  (kept from the notebook imports)
 import pandas as pd
-import sqlparse  # noqa: F401  (kept from the notebook imports)
 import streamlit as st
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import PromptTemplate  # noqa: F401  (kept from the notebook imports)
