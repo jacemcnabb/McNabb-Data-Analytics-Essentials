@@ -1,7 +1,8 @@
 streamlit
-langchain
-langchain-core
-langchain-openai
 pandas
 numpy
 sqlparse
+langchain
+langchain-core
+langchain-openai
+tabulate
