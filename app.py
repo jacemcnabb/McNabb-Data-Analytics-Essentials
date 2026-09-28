@@ -18,6 +18,7 @@ import re
 import json
 import time
 import sqlite3
+import sqlparse
 from datetime import datetime, timezone
 from pathlib import Path
 
